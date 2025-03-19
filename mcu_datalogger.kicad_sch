@@ -3613,6 +3613,72 @@
 		)
 		(uuid "fa4ad9f9-ad68-4ab3-9bc4-21904b34515d")
 	)
+	(rectangle
+		(start 23.622 34.544)
+		(end 118.364 89.154)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3e169264-6ddc-4d1b-90d0-1645b47383ec)
+	)
+	(rectangle
+		(start 128.016 21.082)
+		(end 279.908 94.742)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9bddd39e-0d77-4bdd-8de4-d3f5486c9a36)
+	)
+	(rectangle
+		(start 30.988 145.796)
+		(end 114.808 188.468)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d86e124e-2f57-4e70-8ca0-cebb8a174333)
+	)
+	(text "Real Time Clock\n"
+		(exclude_from_sim no)
+		(at 31.496 33.782 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "32dc69c2-fc00-435e-b6a1-516bd7c7ad0f")
+	)
+	(text "MCU\n"
+		(exclude_from_sim no)
+		(at 35.56 143.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "48f2bb0f-ac10-48dc-af12-a3572dcadde7")
+	)
+	(text "MCU\n"
+		(exclude_from_sim no)
+		(at 129.794 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8d257e86-0a2b-4ed2-93cf-d7aeaca875a5")
+	)
 	(label "SCK"
 		(at 179.324 115.57 180)
 		(effects
