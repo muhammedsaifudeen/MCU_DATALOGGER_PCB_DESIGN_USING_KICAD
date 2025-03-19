@@ -216,7 +216,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "lib_symbol_issues|2032000|596900|0736f469-d157-402e-98f6-c35518dd52d6|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -589,6 +591,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
