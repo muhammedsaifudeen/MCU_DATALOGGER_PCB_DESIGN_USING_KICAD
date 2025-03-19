@@ -845,6 +845,318 @@
 			)
 		)
 	)
+	(text "GPIO\n"
+		(exclude_from_sim no)
+		(at 68.072 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "67bbd636-a6aa-47d8-b29d-620cedf850f3")
+	)
+	(text "Serial UART\n"
+		(exclude_from_sim no)
+		(at 90.424 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7858e02c-726d-408b-af7f-bd166efee743")
+	)
+	(text "I2C\n"
+		(exclude_from_sim no)
+		(at 68.326 60.452 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a695375c-97ab-41b2-9f87-fb9dd92b9608")
+	)
+	(text "ICSP\n"
+		(exclude_from_sim no)
+		(at 94.234 96.012 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "baa1c1db-2e54-4a4b-af07-2c482fa584b9")
+	)
+	(hierarchical_label "D7"
+		(shape tri_state)
+		(at 73.66 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0428f1f4-3f60-41dd-8934-3df0f8e7a7a7")
+	)
+	(hierarchical_label "D3"
+		(shape tri_state)
+		(at 73.66 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "065311db-60a3-4c01-86e3-647d03e9959d")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 100.33 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "073aa6ac-0f80-487c-8f38-1df898dc4469")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 73.66 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "093d8331-9c8f-4ede-b891-ccb9929ed09b")
+	)
+	(hierarchical_label "SDA"
+		(shape tri_state)
+		(at 71.12 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "12bab71a-68c5-43f0-8f8f-b9f2c38c0d93")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 71.12 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1a1bc568-e560-4df7-857d-538f5f1d368f")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 73.66 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1a526062-f510-4725-9b6b-8a4fc06b4a1a")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 91.44 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1af1f474-2695-4006-b504-91f851622685")
+	)
+	(hierarchical_label "RX"
+		(shape input)
+		(at 91.44 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c755dcf-3fe7-410d-bbad-b52e1ba49cb7")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 91.44 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b1c294d-19fa-4703-b7fd-27be675fe06f")
+	)
+	(hierarchical_label "D8"
+		(shape tri_state)
+		(at 73.66 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49156075-b7a6-4b33-b0ac-9d27a0f1a1ee")
+	)
+	(hierarchical_label "RESET"
+		(shape passive)
+		(at 87.63 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5adcbea4-5ea3-4e65-a76e-2819ae91a991")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 87.63 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8efcd7cd-cb07-4376-99ac-ce0298bb724d")
+	)
+	(hierarchical_label "D2"
+		(shape tri_state)
+		(at 73.66 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9dfd3df0-bf35-449b-83a7-0dfe79b19b59")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 91.44 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "acbf938c-706f-45e8-b57e-4b62911410cf")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 87.63 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aee5144b-220f-4068-ba80-5f8c6ae2bf3e")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 100.33 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be9d6417-633f-4d5c-9417-5b058a59b9fc")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 71.12 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf025eaf-c32f-4ff8-a268-7a6484d7513f")
+	)
+	(hierarchical_label "D6"
+		(shape tri_state)
+		(at 73.66 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4be8891-35d6-412b-ba4d-c4e185c57953")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 100.33 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4c044bf-dd44-4cbc-884f-420d53e29d8a")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 71.12 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2deab84-3fb2-45cb-aecf-cab3cdbb571a")
+	)
+	(hierarchical_label "D4"
+		(shape tri_state)
+		(at 73.66 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d9306e02-abdb-49e1-aa83-5e79daed9082")
+	)
+	(hierarchical_label "D5"
+		(shape tri_state)
+		(at 73.66 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fd9226a7-3674-45ce-8c13-536776a4670e")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
 		(at 66.04 53.34 0)
@@ -1020,29 +1332,27 @@
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x09")
 		(at 68.58 88.9 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "92ec8803-d9ab-48d6-bb73-523277de60c1")
 		(property "Reference" "J3"
-			(at 71.12 87.6299 0)
+			(at 68.58 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x09"
-			(at 71.12 90.1699 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
