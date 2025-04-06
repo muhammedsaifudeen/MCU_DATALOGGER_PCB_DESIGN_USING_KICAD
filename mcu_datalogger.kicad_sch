@@ -2665,16 +2665,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 102.87) (xy 179.324 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00804dd1-108f-480d-87b3-138f12b00993")
-	)
-	(wire
-		(pts
 			(xy 104.14 59.69) (xy 104.14 77.47)
 		)
 		(stroke
@@ -3821,6 +3811,16 @@
 		)
 		(uuid "41076088-2b56-4924-a982-43c96e55711a")
 	)
+	(label "GND"
+		(at 179.324 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "451e827a-ded1-4dd3-a97f-90581b4efd78")
+	)
 	(label "RESET"
 		(at 179.324 134.62 180)
 		(effects
@@ -3971,6 +3971,16 @@
 		)
 		(uuid "85388849-fcc8-4825-b6bd-69685382a14d")
 	)
+	(label "Vcc"
+		(at 179.324 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8c00f39d-a675-4dde-aaa7-d51f35ca6a9a")
+	)
 	(label "SCK"
 		(at 187.96 54.61 180)
 		(effects
@@ -4060,26 +4070,6 @@
 			(justify left bottom)
 		)
 		(uuid "c8baa0cf-10ca-46fe-92b4-25a2af7b7881")
-	)
-	(label "GND"
-		(at 179.07 105.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c9d4453e-6330-44be-98cf-4fbe0836e462")
-	)
-	(label "Vcc"
-		(at 172.72 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d921a623-5ac0-49d5-8e23-f371557666f4")
 	)
 	(label "D4"
 		(at 218.44 52.07 0)
