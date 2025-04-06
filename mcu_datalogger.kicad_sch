@@ -2675,16 +2675,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 109.22) (xy 172.72 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0186e9e9-21e2-427b-aa4c-7c1850ca7aee")
-	)
-	(wire
-		(pts
 			(xy 104.14 59.69) (xy 104.14 77.47)
 		)
 		(stroke
@@ -2932,16 +2922,6 @@
 			(type default)
 		)
 		(uuid "475385da-1e2f-433f-ba46-c7e7a52e3c7c")
-	)
-	(wire
-		(pts
-			(xy 172.72 105.41) (xy 179.324 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49d03bb2-70ed-43cb-a3e2-af3580437b58")
 	)
 	(wire
 		(pts
@@ -3713,7 +3693,6 @@
 	)
 	(label "Vcc"
 		(at 66.04 170.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3724,7 +3703,6 @@
 	)
 	(label "Vcc"
 		(at 176.53 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3735,7 +3713,6 @@
 	)
 	(label "RX"
 		(at 219.71 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3756,7 +3733,6 @@
 	)
 	(label "D5"
 		(at 218.44 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3767,7 +3743,6 @@
 	)
 	(label "SCK"
 		(at 44.45 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3788,7 +3763,6 @@
 	)
 	(label "SDA"
 		(at 57.15 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3799,7 +3773,6 @@
 	)
 	(label "TX"
 		(at 219.71 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3810,7 +3783,6 @@
 	)
 	(label "SDA"
 		(at 106.68 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3821,7 +3793,6 @@
 	)
 	(label "Vcc"
 		(at 36.83 170.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3832,7 +3803,6 @@
 	)
 	(label "D6"
 		(at 218.44 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3843,7 +3813,6 @@
 	)
 	(label "SDA"
 		(at 44.45 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3874,7 +3843,6 @@
 	)
 	(label "SCK"
 		(at 86.36 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3885,7 +3853,6 @@
 	)
 	(label "Vcc"
 		(at 36.83 167.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3896,7 +3863,6 @@
 	)
 	(label "RESET"
 		(at 187.96 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3907,7 +3873,6 @@
 	)
 	(label "D2"
 		(at 218.44 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3918,7 +3883,6 @@
 	)
 	(label "Vcc"
 		(at 76.2 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3929,7 +3893,6 @@
 	)
 	(label "D3"
 		(at 218.44 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3940,7 +3903,6 @@
 	)
 	(label "MOSI"
 		(at 187.96 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3951,7 +3913,6 @@
 	)
 	(label "SCK"
 		(at 187.96 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3972,7 +3933,6 @@
 	)
 	(label "SDA"
 		(at 187.96 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4003,7 +3963,6 @@
 	)
 	(label "Vcc"
 		(at 101.6 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4014,7 +3973,6 @@
 	)
 	(label "SCK"
 		(at 187.96 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4035,7 +3993,6 @@
 	)
 	(label "MISO"
 		(at 187.96 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4056,7 +4013,6 @@
 	)
 	(label "Vcc"
 		(at 36.83 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4067,7 +4023,6 @@
 	)
 	(label "Vcc"
 		(at 46.99 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4078,7 +4033,6 @@
 	)
 	(label "Vcc"
 		(at 66.04 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4099,7 +4053,6 @@
 	)
 	(label "D7"
 		(at 218.44 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4109,7 +4062,7 @@
 		(uuid "c8baa0cf-10ca-46fe-92b4-25a2af7b7881")
 	)
 	(label "GND"
-		(at 172.72 109.22 180)
+		(at 179.07 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4130,7 +4083,6 @@
 	)
 	(label "D4"
 		(at 218.44 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4141,7 +4093,6 @@
 	)
 	(label "SCK"
 		(at 57.15 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4162,7 +4113,6 @@
 	)
 	(label "SCK"
 		(at 96.52 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4173,7 +4123,6 @@
 	)
 	(label "SDA"
 		(at 86.36 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4184,7 +4133,6 @@
 	)
 	(label "D8"
 		(at 187.96 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4379,7 +4327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
+		(property "Footprint" "Atmega_328P:QFP80P900X900X120-32N"
 			(at 203.2 59.69 0)
 			(effects
 				(font
@@ -5271,7 +5219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DS1337S_:SOIC127P600X175-8N"
+		(property "Footprint" "530002B02500G:DS1337"
 			(at 62.23 66.04 0)
 			(effects
 				(font
