@@ -182,6 +182,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 9.95 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e9e92ed7-f748-4c6a-b093-1e5713f463a7")
 			(effects
 				(font
@@ -491,7 +492,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.68 0)
+			(at -0.04 1.61 0)
 			(layer "F.SilkS")
 			(uuid "d1a854b9-8085-4ab1-b2ce-4ccd5b727487")
 			(effects
@@ -704,7 +705,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 0 -1.65 0)
+			(at 2.8925 0.02 0)
 			(layer "F.SilkS")
 			(uuid "b5727e35-5cbf-489d-b446-21bcaafae436")
 			(effects
@@ -939,7 +940,7 @@
 		(descr "Mounting Hole 2.1mm, no annular")
 		(tags "mounting hole 2.1mm no annular")
 		(property "Reference" "H2"
-			(at 0 -3.2 0)
+			(at -2.39 0.04 0)
 			(layer "F.SilkS")
 			(uuid "32e08727-5c8a-4386-a8de-c43c5fbac4ad")
 			(effects
@@ -952,6 +953,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f6d25d6b-330c-436d-9465-708811872219")
 			(effects
 				(font
@@ -1057,7 +1059,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.68 0)
+			(at 0.21 1.76 0)
 			(layer "F.SilkS")
 			(uuid "73ff4670-ade4-4425-a190-d438590b4600")
 			(effects
@@ -1270,7 +1272,7 @@
 		(descr "Mounting Hole 2.1mm, no annular")
 		(tags "mounting hole 2.1mm no annular")
 		(property "Reference" "H1"
-			(at 0 -3.2 0)
+			(at 2.16 1 0)
 			(layer "F.SilkS")
 			(uuid "7c28d7e4-13d0-4702-b739-443b00ba2510")
 			(effects
@@ -1283,6 +1285,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e31c29e9-5596-42a3-a337-91d919ca9a07")
 			(effects
 				(font
@@ -4312,6 +4315,7 @@
 		(property "Value" "Conn_01x09"
 			(at 0 22.65 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "19f6874f-8fab-4b18-9ea2-0f0e4e969f60")
 			(effects
 				(font
@@ -5670,6 +5674,7 @@
 		(property "Value" "Conn_02x03_Counter_Clockwise"
 			(at 1.27 7.41 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f90e0bde-d189-4476-86fa-935d989bd93c")
 			(effects
 				(font
@@ -6031,7 +6036,7 @@
 		(descr "Mounting Hole 2.1mm, no annular")
 		(tags "mounting hole 2.1mm no annular")
 		(property "Reference" "H3"
-			(at 0 -3.2 0)
+			(at 2.14 -1.06 0)
 			(layer "F.SilkS")
 			(uuid "9017ba74-6a34-45ae-bde0-d9720ae8c105")
 			(effects
@@ -6044,6 +6049,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3e25a25b-7969-473f-828b-f0eeed3ba5c7")
 			(effects
 				(font
@@ -6575,7 +6581,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "C5"
-			(at 0 -1.65 0)
+			(at -0.06 2.64 0)
 			(layer "F.SilkS")
 			(uuid "a2f3e327-5f28-44d8-907b-70e28e2428a2")
 			(effects
@@ -7234,8 +7240,9 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "BT2"
-			(at 20.63 20.7 0)
+			(at 0.07 -2.42 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "37e19e42-47c0-4736-af31-62b195e088c9")
 			(effects
 				(font
@@ -7510,7 +7517,7 @@
 		(descr "Mounting Hole 2.1mm, no annular")
 		(tags "mounting hole 2.1mm no annular")
 		(property "Reference" "H4"
-			(at 0 -3.2 0)
+			(at -2.2 -0.95 0)
 			(layer "F.SilkS")
 			(uuid "1f484fd0-112f-4ebb-b0a6-098d1d0a29d8")
 			(effects
@@ -7521,8 +7528,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.2 0)
+			(at -2.83 6.47 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "17b319fe-356e-489d-b0c1-47e8af976aa8")
 			(effects
 				(font
@@ -7628,7 +7636,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
-			(at 0 -1.65 0)
+			(at -2.4525 -0.03 0)
 			(layer "F.SilkS")
 			(uuid "4f4d8145-7735-4531-a429-e59e43bc4c9b")
 			(effects
@@ -10715,5 +10723,74 @@
 		(layer "B.Cu")
 		(net 36)
 		(uuid "fb562d09-6220-4d5b-be70-7e682408ab33")
+	)
+	(zone
+		(net 9)
+		(net_name "/Vcc")
+		(layer "F.Cu")
+		(uuid "cbb11e05-fe53-4d2c-91bc-a7a9f5252e87")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(mode hatch)
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(hatch_thickness 1)
+			(hatch_gap 1.5)
+			(hatch_orientation 0)
+			(hatch_border_algorithm hatch_thickness)
+			(hatch_min_hole_area 0.3)
+		)
+		(polygon
+			(pts
+				(xy 224.279925 65.521454) (xy 185.219925 65.561454) (xy 184.339925 67.711454) (xy 183.969925 68.361454)
+				(xy 183.119925 68.961454) (xy 182.069925 69.491454) (xy 182.139925 89.221454) (xy 183.539925 89.971454)
+				(xy 183.999925 90.371454) (xy 184.319925 90.861454) (xy 184.499925 91.371454) (xy 184.549925 91.711454)
+				(xy 184.559925 92.051454) (xy 184.499925 92.451454) (xy 184.619925 92.871454) (xy 224.929925 92.851454)
+				(xy 225.029925 91.631454) (xy 225.199925 91.041454) (xy 225.419925 90.661454) (xy 225.769925 90.261454)
+				(xy 226.179925 89.931454) (xy 226.549925 89.741454) (xy 226.839925 89.681454) (xy 227.359925 89.601454)
+				(xy 227.649925 69.401454) (xy 226.859925 69.021454) (xy 226.289925 68.821454) (xy 226.009925 68.661454)
+				(xy 225.609925 68.291454) (xy 225.309925 67.861454) (xy 225.089925 67.351454) (xy 225.009925 66.751454)
+				(xy 225.039925 66.291454) (xy 225.139925 65.941454) (xy 225.229925 65.691454) (xy 225.299925 65.561454)
+				(xy 224.959925 65.521454)
+			)
+		)
+	)
+	(zone
+		(net 1)
+		(net_name "GND")
+		(layer "B.Cu")
+		(uuid "a1c237e6-a990-47f5-8304-d825418312be")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(mode hatch)
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(hatch_thickness 1)
+			(hatch_gap 1.5)
+			(hatch_orientation 0)
+			(hatch_border_algorithm hatch_thickness)
+			(hatch_min_hole_area 0.3)
+		)
+		(polygon
+			(pts
+				(xy 224.24 65.54) (xy 185.18 65.58) (xy 184.3 67.73) (xy 183.93 68.38) (xy 183.08 68.98) (xy 182.03 69.51)
+				(xy 182.1 89.24) (xy 183.5 89.99) (xy 183.96 90.39) (xy 184.28 90.88) (xy 184.46 91.39) (xy 184.51 91.73)
+				(xy 184.52 92.07) (xy 184.46 92.47) (xy 184.58 92.89) (xy 224.89 92.87) (xy 224.99 91.65) (xy 225.16 91.06)
+				(xy 225.38 90.68) (xy 225.73 90.28) (xy 226.14 89.95) (xy 226.51 89.76) (xy 226.8 89.7) (xy 227.32 89.62)
+				(xy 227.61 69.42) (xy 226.82 69.04) (xy 226.25 68.84) (xy 225.97 68.68) (xy 225.57 68.31) (xy 225.27 67.88)
+				(xy 225.05 67.37) (xy 224.97 66.77) (xy 225 66.31) (xy 225.1 65.96) (xy 225.19 65.71) (xy 225.26 65.58)
+				(xy 224.92 65.54)
+			)
+		)
 	)
 )
