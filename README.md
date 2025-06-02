@@ -9,8 +9,8 @@ Ideal for offline data collection in environmental monitoring, industrial applic
 ## 🔧 Features
 
 - ✅ **Microcontroller:** ATmega328P @ 16 MHz
-- 📦 **Memory:** 512KB External I2C EEPROM (e.g., 24LC512 or similar)
-- 🕒 **Timekeeping:** DS3231 or DS1307 RTC module
+- 📦 **Memory:** 512KB External I2C EEPROM (24LC512)
+- 🕒 **Timekeeping:** DS3231 
 - 📝 **Data Logging:** Logs data with accurate timestamps
 - 🔌 **Interfaces:** I2C for EEPROM and RTC, UART for debugging
 - 💾 **Power-Efficient:** Sleep modes enabled for long-term operation
@@ -24,13 +24,13 @@ Ideal for offline data collection in environmental monitoring, industrial applic
 | Component         | Description                  |
 |------------------|------------------------------|
 | ATmega328P       | 8-bit AVR microcontroller     |
-| 512KB EEPROM     | External I2C memory (e.g., 24LC512) |
-| RTC Module       | DS3231 (preferred) or DS1307  |
-| Crystal          | 16 MHz (if using bare MCU)    |
+| 512KB EEPROM     | External I2C memory            |
+| RTC Module       | DS3231                          |
+| Crystal          | 16 MHz                           |
 | Capacitors       | 22pF for crystal, 100nF decoupling |
 | Resistors        | Pull-ups for I2C (4.7k–10kΩ)   |
 | UART Header      | For serial debugging/data dump |
-| Power Supply     | 5V regulated or battery with LDO |
+| Power Supply     | 5V regulated                    |
 
 ---
 
