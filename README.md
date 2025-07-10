@@ -6,7 +6,7 @@ A low-power, offline data logger built using the **ATmega328P** microcontroller.
 
 ## 🖼️ Assembled Hardware
 
-![Assembled Board](schematics/MCU_DATALOGGER_3D_IMAGE.png)
+![Assembled Board](images/MCU_DATALOGGER_3D_IMAGE.png)
 
 ---
 
