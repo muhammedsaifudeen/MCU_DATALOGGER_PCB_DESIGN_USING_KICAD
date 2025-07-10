@@ -74,7 +74,7 @@ A low-power, offline data logger built using the **ATmega328P** microcontroller.
 
 ## 📐 Schematics
 
-- 📎 [Download Full Schematic (PDF)](schematics/datalogger_schematic.pdf)
+- 📎 [Schematic](images/schematic.png)
 
 ---
 
